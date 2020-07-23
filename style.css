@@ -1,0 +1,28 @@
+.container{
+
+    margin: 50px;
+}
+.main-area{
+
+    background-color: #f6f5fa;
+    border-radius: 10px;
+    width: 500px;
+    padding: 20px;
+}
+
+input{
+
+    border-radius: 5px;
+}
+
+.btn-success{
+
+    margin-left: 20px;
+}
+
+#output{
+
+    font-size: 30px;
+    font-weight: 700;
+    text-align: right;
+}
